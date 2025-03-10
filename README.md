@@ -41,7 +41,8 @@
 ### СПИСОК ЛИТЕРАТУРЫ	
 ### ПРИЛОЖЕНИЯ	
 
-[Имя Telegram-Bota @MediclSLR_bot](@MediclSLR_bot)# DiplomGB-MedTgBot
+[Имя Telegram-Bota @MediclSLR_bot](@MediclSLR_bot)
+
 
 
 
