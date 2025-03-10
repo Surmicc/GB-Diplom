@@ -44,5 +44,3 @@
 [Имя Telegram-Bota @MediclSLR_bot](@MediclSLR_bot)
 
 
-
-
